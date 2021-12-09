@@ -1,6 +1,6 @@
 # Image-Classification-Pytorch
 
-## Object: 
+## Objective: 
 
 Through this notebook, we will practice building, evaluating, and finetuning a convolutional neural network on an image dataset from development to testing.
 
